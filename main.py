@@ -10,7 +10,11 @@ images = {
     "Mango": "mango.jpg",
     "Banana": "banana.jpg",
     "Cat": "cat.jpg",
-    "Tree": "tree.jpg"
+    "Tree": "tree.jpg",
+    "Cock": "cock.jpg",
+    "Goat": "goat.jpg",
+    "House": "house.jpg",
+    "Orange": "orange.jpg"
 }
 
 # Create a list of serial numbers for the dropdown
